@@ -64,7 +64,7 @@ p,ul,ol /* Paragraph Style */
 <body>
 
 <p><br></p>
-<div><table width="100%" border=1 cellpadding=1 cellspacing=2 style="background-color: #ffffff;">
+<div><table width="150%" border=1 cellpadding=1 cellspacing=2 style="background-color: #ffffff;">
 <tr valign=top>
 <td style="border-style: inset;">
 <p><span class=rvts1>First Name</span></p>
