@@ -107,7 +107,7 @@ p,ul,ol /* Paragraph Style */
 <p>EFFECTS OF LAND COVER PATTERN ON LAND SURFACE TEMPERATURE IN URBAN LANDSCAPES: A Case Study of Nairobi CBD</p>
 </td>
 <td style="border-style: inset;">
-<p>Rapid urbanization has led to increased land surface temperature (LST) and severe urban heat islands (UHIs). The impacts of land use/land cover (LULC) on LST have been extensively studied. However the differences between land use and land cover and their </p>
+<p>Rapid urbanization has led to increased land surface temperature (LST) and severe urban heat islands (UHIs). The impacts of land use/land cover (LULC) on LST have been extensively studied. However the differences between land use and land cover and their implications in an urban environmentare often overlooked.This study aimed to study the effects from land use types and land cover patterns on LST along urbanization. </p>
 </td>
 </tr>
 <tr valign=top>
